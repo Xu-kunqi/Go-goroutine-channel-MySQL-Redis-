@@ -1,0 +1,16 @@
+# 编译产物
+my-scheduler
+scheduler
+
+# Go 编译缓存
+*.exe
+*.test
+*.out
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 配置
+.vscode/
+.idea/
